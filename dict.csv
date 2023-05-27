@@ -124,85 +124,85 @@ id;KOTKAB
 123;Indragiri Hulu
 124;Indramayu
 125;Intan Jaya
-126;Jepara
-127;Jombang
-128;Kaimana
-129;Kampar
-130;Kapuas
-131;Kapuas Hulu
-132;Karanganyar
-133;Karangasem
-134;Karawang
-135;Karimun
-136;Karo
-137;Katingan
-138;Kaur
-139;Kayong Utara
-140;Kebumen
-141;Kediri
-142;Keerom
-143;Kendal
-144;Kep. Seribu
-145;Kepahiang
-146;Kepulauan Anambas
-147;Kepulauan Aru
-148;Kepulauan Mentawai
-149;Klaten
-150;Kepulauan Sangihe
-151;Kepulauan Selayar
-152;Kepulauan Sula
-153;Kepulauan Talaud
-154;Kepulauan Yapen
-155;Kerinci
-156;Ketapang
-157;Klungkung
-158;Kolaka
-159;Kolaka Timur
-160;Kolaka Utara
-161;Konawe
-162;Konawe Kepulauan
-163;Konawe Selatan
-164;Konawe Utara
-165;Kota Ambon
-166;Kota Balikpapan
-167;Kota Banda Aceh
-168;Kota Bandar Lampung
-169;Kota Bandung
-170;Kota Banjar
-171;Kota Banjar Baru
-172;Kota Banjarmasin
-173;Kota Baru
-174;Kota Batam
-175;Kota Batu
-176;Kota Baubau
-177;Kota Bekasi
-178;Kota Bengkulu
-179;Kotawaringin Barat
-180;Kota Bima
-181;Kota Binjai
-182;Kota Bitung
-183;Kota Blitar
-184;Kota Bogor
-185;Kota Bontang
-186;Kota Bukittinggi
-187;Kota Cilegon
-188;Kota Cimahi
-189;Kota Cirebon
-190;Kota Denpasar
-191;Kota Depok
-192;Kota Dumai
-193;Kota Gorontalo
-194;Kota Gunungsitoli
-195;Kota Jakarta Barat
-196;Kota Jakarta Pusat
-197;Kota Jakarta Selatan
-198;Kota Jakarta Timur
-199;Kota Jakarta Utara
-200;Jayapura
-201;Jayawijaya
-202;Jember
-203;Jembrana
-204;Jeneponto
+126;Kota Jakarta Barat
+127;Kota Jakarta Pusat
+128;Kota Jakarta Selatan
+129;Kota Jakarta Timur
+130;Kota Jakarta Utara
+131;Jayapura
+132;Jayawijaya
+133;Jember
+134;Jembrana
+135;Jeneponto
+136;Jepara
+137;Jombang
+138;Kaimana
+139;Kampar
+140;Kapuas
+141;Kapuas Hulu
+142;Karanganyar
+143;Karangasem
+144;Karawang
+145;Karimun
+146;Karo
+147;Katingan
+148;Kaur
+149;Kayong Utara
+150;Kebumen
+151;Kediri
+152;Keerom
+153;Kendal
+154;Siau Tagulandang Biaro
+155;Kepahiang
+156;Kepulauan Anambas
+157;Kepulauan Aru
+158;Kepulauan Mentawai
+159;Kepulauan Meranti
+160;Kepulauan Sangihe
+161;Kepulauan Selayar
+162;Kep. Seribu
+163;Kepulauan Sula
+164;Kepulauan Talaud
+165;Kepulauan Yapen
+166;Kerinci
+167;Ketapang
+168;Klaten
+169;Klungkung
+170;Kolaka
+171;Kolaka Timur
+172;Kolaka Utara
+173;Konawe
+174;Konawe Kepulauan
+175;Konawe Selatan
+176;Konawe Utara
+177;Kota Ambon
+178;Kota Balikpapan
+179;Kota Banda Aceh
+180;Kota Bandar Lampung
+181;Kota Bandung
+182;Kota Banjar
+183;Kota Banjar Baru
+184;Kota Banjarmasin
+185;Kota Batam
+186;Kota Batu
+187;Kota Baubau
+188;Kota Bekasi
+189;Kota Bengkulu
+190;Kota Bima
+191;Kota Binjai
+192;Kota Bitung
+193;Kota Blitar
+194;Kota Bogor
+195;Kota Bontang
+196;Kota Bukittinggi
+197;Kota Cilegon
+198;Kota Cimahi
+199;Kota Cirebon
+200;Kota Denpasar
+201;Kota Depok
+202;Kota Dumai
+203;Kota Gorontalo
+204;Kota Gunungsitoli
 205;Kota Jambi
 206;Kota Jayapura
 207;Kota Kediri
@@ -268,178 +268,178 @@ id;KOTKAB
 267;Kota Tomohon
 268;Kota Tual
 269;Kota Yogyakarta
-270;Kotawaringin Timur
-271;Kuantan Singingi
-272;Kubu Raya
-273;Kudus
-274;Kulon Progo
-275;Kuningan
-276;Kupang
-277;Kutai Barat
-278;Kutai Kartanegara
-279;Kutai Timur
-280;Labuhan Batu
-281;Labuhan Batu Selatan
-282;Labuhan Batu Utara
-283;Lahat
-284;Lamandau
-285;Lamongan
-286;Lampung Barat
-287;Lampung Selatan
-288;Lampung Tengah
-289;Lampung Timur
-290;Lampung Utara
-291;Landak
-292;Langkat
-293;Lanny Jaya
-294;Lebak
-295;Lebong
-296;Lembata
-297;Lima Puluh Kota
-298;Lingga
-299;Lombok Barat
-300;Lombok Tengah
-301;Lombok Timur
-302;Lombok Utara
-303;Lumajang
-304;Luwu
-305;Luwu Timur
-306;Luwu Utara
-307;Madiun
-308;Magelang
-309;Magetan
-310;Mahakam Ulu
-311;Majalengka
-312;Majene
-313;Malaka
-314;Malang
-315;Malinau
-316;Maluku Barat Daya
-317;Maluku Tengah
-318;Maluku Tenggara
-319;Maluku Tenggara Barat
-320;Mamasa
-321;Mamberamo Raya
-322;Mamberamo Tengah
-323;Mamuju
-324;Mamuju Tengah
-325;Mamuju Utara
-326;Mandailing Natal
-327;Manggarai
-328;Manggarai Barat
-329;Manggarai Timur
-330;Manokwari
-331;Manokwari Selatan
-332;Mappi
-333;Maros
-334;Maybrat
-335;Melawi
-336;Mempawah
-337;Merangin
-338;Merauke
-339;Mesuji
-340;Mimika
-341;Minahasa
-342;Minahasa Selatan
-343;Minahasa Tenggara
-344;Minahasa Utara
-345;Mojokerto
-346;Morowali
-347;Morowali Utara
-348;Muara Enim
-349;Muaro Jambi
-350;Mukomuko
-351;Muna
-352;Muna Barat
-353;Murung Raya
-354;Musi Banyuasin
-355;Musi Rawas
-356;Musi Rawas Utara
-357;Nabire
-358;Nagan Raya
-359;Nagekeo
-360;Natuna
-361;Nduga
-362;Ngada
-363;Nganjuk
-364;Ngawi
-365;Nias
-366;Nias Barat
-367;Nias Selatan
-368;Nias Utara
-369;Nunukan
-370;Ogan Ilir
-371;Ogan Komering Ilir
-372;Ogan Komering Ulu
-373;Ogan Komering Ulu Selatan
-374;Ogan Komering Ulu Timur
-375;Pacitan
-376;Padang Lawas
-377;Padang Lawas Utara
-378;Padang Pariaman
-379;Pakpak Bharat
-380;Pandeglang
-381;Pangandaran
-382;Pangkajene dan Kepulauan
-383;Paniai
-384;Parigi Moutong
-385;Pasaman
-386;Pasaman Barat
-387;Paser
-388;Pasuruan
-389;Pati
-390;Pegunungan Arfak
-391;Pegunungan Bintang
-392;Pekalongan
-393;Pelalawan
-394;Pemalang
-395;Penajam Paser Utara
-396;Penukal Abab Lematang Ilir
-397;Pesawaran
-398;Pesisir Barat
-399;Pesisir Selatan
-400;Pidie
-401;Pidie Jaya
-402;Pinrang
-403;Pohuwato
-404;Polewali Mandar
-405;Pamekasan
-406;Ponorogo
-407;Poso
-408;Pringsewu
-409;Probolinggo
-410;Pulang Pisau
-411;Pulau Morotai
-412;Pulau Taliabu
-413;Puncak
-414;Puncak Jaya
-415;Purbalingga
-416;Purwakarta
-417;Purworejo
-418;Raja Ampat
-419;Rejang Lebong
-420;Rembang
-421;Rokan Hilir
-422;Rokan Hulu
-423;Rote Ndao
-424;Sabu Raijua
-425;Sambas
-426;Samosir
-427;Sampang
-428;Sanggau
-429;Sarmi
-430;Sarolangun
-431;Sekadau
-432;Seluma
-433;Semarang
-434;Seram Bagian Barat
-435;Seram Bagian Timur
-436;Serang
-437;Serdang Bedagai
-438;Seruyan
-439;Siak
-440;Siau Tagulandang Biaro
-441;Kepulauan Meranti
+270;Kota Baru
+271;Kotawaringin Barat
+272;Kotawaringin Timur
+273;Kuantan Singingi
+274;Kubu Raya
+275;Kudus
+276;Kulon Progo
+277;Kuningan
+278;Kupang
+279;Kutai Barat
+280;Kutai Kartanegara
+281;Kutai Timur
+282;Labuhan Batu
+283;Labuhan Batu Selatan
+284;Labuhan Batu Utara
+285;Lahat
+286;Lamandau
+287;Lamongan
+288;Lampung Barat
+289;Lampung Selatan
+290;Lampung Tengah
+291;Lampung Timur
+292;Lampung Utara
+293;Landak
+294;Langkat
+295;Lanny Jaya
+296;Lebak
+297;Lebong
+298;Lembata
+299;Lima Puluh Kota
+300;Lingga
+301;Lombok Barat
+302;Lombok Tengah
+303;Lombok Timur
+304;Lombok Utara
+305;Lumajang
+306;Luwu
+307;Luwu Timur
+308;Luwu Utara
+309;Madiun
+310;Magelang
+311;Magetan
+312;Mahakam Ulu
+313;Majalengka
+314;Majene
+315;Malaka
+316;Malang
+317;Malinau
+318;Maluku Barat Daya
+319;Maluku Tengah
+320;Maluku Tenggara
+321;Maluku Tenggara Barat
+322;Mamasa
+323;Mamberamo Raya
+324;Mamberamo Tengah
+325;Mamuju
+326;Mamuju Tengah
+327;Mamuju Utara
+328;Mandailing Natal
+329;Manggarai
+330;Manggarai Barat
+331;Manggarai Timur
+332;Manokwari
+333;Manokwari Selatan
+334;Mappi
+335;Maros
+336;Maybrat
+337;Melawi
+338;Mempawah
+339;Merangin
+340;Merauke
+341;Mesuji
+342;Mimika
+343;Minahasa
+344;Minahasa Selatan
+345;Minahasa Tenggara
+346;Minahasa Utara
+347;Mojokerto
+348;Morowali
+349;Morowali Utara
+350;Muara Enim
+351;Muaro Jambi
+352;Mukomuko
+353;Muna
+354;Muna Barat
+355;Murung Raya
+356;Musi Banyuasin
+357;Musi Rawas
+358;Musi Rawas Utara
+359;Nabire
+360;Nagan Raya
+361;Nagekeo
+362;Natuna
+363;Nduga
+364;Ngada
+365;Nganjuk
+366;Ngawi
+367;Nias
+368;Nias Barat
+369;Nias Selatan
+370;Nias Utara
+371;Nunukan
+372;Ogan Ilir
+373;Ogan Komering Ilir
+374;Ogan Komering Ulu
+375;Ogan Komering Ulu Selatan
+376;Ogan Komering Ulu Timur
+377;Pacitan
+378;Padang Lawas
+379;Padang Lawas Utara
+380;Padang Pariaman
+381;Pohuwato
+382;Pakpak Bharat
+383;Pamekasan
+384;Pandeglang
+385;Pangandaran
+386;Pangkajene dan Kepulauan
+387;Paniai
+388;Parigi Moutong
+389;Pasaman
+390;Pasaman Barat
+391;Paser
+392;Pasuruan
+393;Pati
+394;Pegunungan Arfak
+395;Pegunungan Bintang
+396;Pekalongan
+397;Pelalawan
+398;Pemalang
+399;Penajam Paser Utara
+400;Penukal Abab Lematang Ilir
+401;Pesawaran
+402;Pesisir Barat
+403;Pesisir Selatan
+404;Pidie
+405;Pidie Jaya
+406;Pinrang
+407;Polewali Mandar
+408;Ponorogo
+409;Poso
+410;Pringsewu
+411;Probolinggo
+412;Pulang Pisau
+413;Pulau Morotai
+414;Pulau Taliabu
+415;Puncak
+416;Puncak Jaya
+417;Purbalingga
+418;Purwakarta
+419;Purworejo
+420;Raja Ampat
+421;Rejang Lebong
+422;Rembang
+423;Rokan Hilir
+424;Rokan Hulu
+425;Rote Ndao
+426;Sabu Raijua
+427;Sambas
+428;Samosir
+429;Sampang
+430;Sanggau
+431;Sarmi
+432;Sarolangun
+433;Sekadau
+434;Seluma
+435;Semarang
+436;Seram Bagian Barat
+437;Seram Bagian Timur
+438;Serang
+439;Serdang Bedagai
+440;Seruyan
+441;Siak
 442;Sidenreng Rappang
 443;Sidoarjo
 444;Sigi
